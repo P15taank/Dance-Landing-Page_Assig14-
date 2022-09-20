@@ -14,4 +14,4 @@
 ## Time Spent
 I spent 6 hours to complete this project
 ## Live Link
-Preview the project [Here](https://business-page12.netlify.app/)
+Preview the project [Here](https://dancelandingpage-14.netlify.app//)
